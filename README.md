@@ -25,10 +25,10 @@ Internships abroad provide tremendous opportunity to gain invaluable work experi
   <br>[RWTH UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen 
   <br>[CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states), Switzerland 
   <br>[CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education),  Switzerland 
-  <br>[Summer fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html), ETH Zurich,  Switzerland 
+  <br>[Summer Fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html), ETH Zurich,  Switzerland 
   <br>[Summer at EPFL](https://summer.epfl.ch/), Lausanne, Switzerland 
   <br>[ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria 
-  <br>[UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
+  <br>[UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students), Australia
   <br>[SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), South Korea
   <br>[TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Sinica, Taiwan 
   <br>[NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php),  Taiwan 
