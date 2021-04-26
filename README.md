@@ -52,3 +52,4 @@ Internships abroad provide tremendous opportunity to gain invaluable work experi
 	<br> [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay 
 	<br> [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur 
 	<br> [CMI Internship](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute  
+[SSERD Research Internship](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
